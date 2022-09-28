@@ -29,6 +29,7 @@ CONTACT WITH <a href="https://github.com/RJ-Shuvo"><b>RJ-Shuvo </a> </br><br>
  pip install rich
  pip install bs4
  pkg install git 
+ rm -rf RS-RANDOM
  git clone https://github.com/RJ-Shuvo/RS-RANDOM
 ```
 #### RUN SCRIPT
