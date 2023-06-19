@@ -35,7 +35,7 @@ CONTACT WITH <a href="https://github.com/RJ-Shuvo"><b>RJ-Shuvo </a> </br><br>
 #### RUN SCRIPT
 ```python
  cd RS-RANDOM
- python RJ_RANDOM.py
+ python RS-BDPK.py
 ```
 
 
